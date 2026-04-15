@@ -1,2 +1,1 @@
-# FederatedLearning
-Federated Learning
+# Federated Learning
